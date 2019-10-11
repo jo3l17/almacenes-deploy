@@ -2466,8 +2466,8 @@ const environment = {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "conexion", function() { return conexion; });
-const conexion = 'http://localhost:3700';
-// export const conexion:string = 'https://almacenes-back.herokuapp.com'
+// export const conexion:string = 'http://localhost:3700'
+const conexion = 'https://almacenes-back.herokuapp.com';
 
 
 /***/ }),
